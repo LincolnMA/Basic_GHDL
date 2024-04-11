@@ -10,3 +10,4 @@ Links em ordem cronológica de aprendizado:
 + Instale o Visual Studio Code e procure e adicione a extensão VHDL, do Pu Zhao.
 + Após aceitar o convite, o repositório deve aparecer na sua própria conta do github. Utilize o comando git clone para trazer os arquivos criados na sua conta para sua máquina. Daí pra frente é só modificar, "commitar" e "pushar".
 + Lembrem de fazer um git pull antes de "pushar".
++ Não se esqueça de colocar seu nome e matrícula no arquivo "Lista de Participantes.txt".

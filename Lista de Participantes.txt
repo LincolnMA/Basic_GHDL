@@ -4,3 +4,4 @@ Nome Completo e matrícula, uma pessoa por linha...
 João Vítor Macedo de Melo Moreira, 20231610028;
 Kawan Targino de Miranda, 20231610023;
 Gabriel Silva Simão, 20231610027;
+Luiz Felipe Maia Vitorino de França, 20231610004;
